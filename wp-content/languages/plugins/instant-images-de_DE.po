@@ -1,0 +1,185 @@
+# Translation of Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk) in German
+# This file is distributed under the same license as the Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-23 18:17:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk)\n"
+
+#: instant-images.php:275
+msgid "Search for Toronto + Coffee etc..."
+msgstr "Suche nach Toronto + Coffee …"
+
+#: instant-images.php:293
+msgid "Landscape"
+msgstr "Querformat"
+
+#: instant-images.php:294
+msgid "Portrait"
+msgstr "Hochformat"
+
+#: instant-images.php:295
+msgid "Squarish"
+msgstr "Quadratisch"
+
+#: instant-images.php:283
+msgid "Title"
+msgstr "Titel"
+
+#: instant-images.php:291
+msgid "Upload"
+msgstr "Upload"
+
+#: instant-images.php:280
+msgid "Set as Featured Image"
+msgstr "Als Beitragsbild festlegen"
+
+#: instant-images.php:281
+msgid "Insert Into Post"
+msgstr "In Beitrag einfügen"
+
+#: instant-images.php:282
+msgid "Filename"
+msgstr "Dateiname"
+
+#: instant-images.php:284
+msgid "Alt Text"
+msgstr "Alt-Text"
+
+#: instant-images.php:285
+msgid "Caption"
+msgstr "Beschriftung"
+
+#: instant-images.php:287
+msgid "Edit Image Details"
+msgstr "Bildinformationen bearbeiten"
+
+#: instant-images.php:289
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: instant-images.php:290
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/includes/page-settings.php:13
+msgid "The latest Instant Images updates."
+msgstr "Die letzten Instant-Images-Aktualisierungen."
+
+#: admin/includes/page-settings.php:12
+msgid "What's New"
+msgstr "Was gibt es Neues"
+
+#: instant-images.php:258
+msgid "Click Image to Upload"
+msgstr "Klicke für einen Upload auf das Bild"
+
+#: instant-images.php:263
+msgid "Downloading image..."
+msgstr "Lade Bild herunter …"
+
+#: instant-images.php:268
+msgid "New"
+msgstr "Neu"
+
+#: instant-images.php:270
+msgid "Popular"
+msgstr "Beliebt"
+
+#: instant-images.php:277
+msgid "images found for"
+msgstr "Bilder gefunden für"
+
+#: admin/includes/cta/permissions.php:22
+msgid "Instant Images is unable to download and process images on your server."
+msgstr "Instant Images kann Bilder nicht auf deinen Server herunterladen und verarbeiten."
+
+#: admin/includes/page-settings.php:93
+msgid "Our Plugins"
+msgstr "Unsere Plugins"
+
+#: admin/views/app.php:27
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: api/download.php:148
+msgid "Image successfully uploaded to the media library!"
+msgstr "Bild erfolgreich in die Mediathek hochgeladen!"
+
+#: admin/includes/cta/permissions.php:23
+msgid "Please enable read/write access to the following directory:"
+msgstr "Bitte aktiviere Lese-/Schreib-Rechte für das folgende Verzeichnis:"
+
+#: instant-images.php:256
+msgid "Photo by"
+msgstr "Foto von"
+
+#: instant-images.php:257
+msgid "View All Photos by"
+msgstr "Zeige alle Fotos von"
+
+#: instant-images.php:259
+msgid "Click to Upload"
+msgstr "Klicke zum Hochladen"
+
+#: instant-images.php:260
+msgid "View Full Size"
+msgstr "Volle Größe anzeigen"
+
+#: instant-images.php:266
+msgid "Sorry, nothing matched your query"
+msgstr "Tut mir leid, nichts passt zu deiner Abfrage"
+
+#: admin/includes/cta/permissions.php:21
+msgid "Permissions Error"
+msgstr "Berechtigungs-Fehler"
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Width"
+msgstr "Bildbreite Upload"
+
+#: admin/includes/settings.php:47
+msgid "Upload Image Height"
+msgstr "Bildhöhe Upload"
+
+#: admin/includes/settings.php:141
+msgid "Max Image Upload Width:"
+msgstr "Max. Bildbreite Upload"
+
+#: admin/includes/settings.php:158
+msgid "Max Image Upload Height:"
+msgstr "Max. Bildhöhe Upload:"
+
+#: instant-images.php:269
+msgid "Oldest"
+msgstr "Älteste"
+
+#: instant-images.php:274
+msgid "Load More Images"
+msgstr "Lade weitere Bilder"
+
+#: admin/includes/page-settings.php:69
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:94 admin/admin.php:111 instant-images.php:227
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#. Plugin URI of the plugin
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr "https://connekthq.com/plugins/instant-images/"
+
+#. Author of the plugin
+msgid "Darren Cooney"
+msgstr "Darren Cooney"
+
+#. Author URI of the plugin
+msgid "https://connekthq.com"
+msgstr "https://connekthq.com"

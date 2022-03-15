@@ -1,0 +1,225 @@
+# Translation of Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-04 20:45:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Instant Images &#8211; One Click Unsplash, Pixabay and Pexels Uploads - Development (trunk)\n"
+
+#: instant-images.php:255
+msgid "Instant Images requires access to the WP REST API via <u>POST</u> request to fetch and upload images to your media library."
+msgstr "Instant Images nécessite un accès à l’API REST WP via une requête <u>POST</u> pour récupérer et téléverser des images dans votre médiathèque."
+
+#: instant-images.php:254
+msgid "There was an error accessing the WP REST API."
+msgstr "Une erreur s’est produite lors de l’accès à l’API REST WP."
+
+#: instant-images.php:286
+msgid "Edit Attachment Details"
+msgstr "Modifier les détails du fichier joint"
+
+#: instant-images.php:265
+msgid "Still resizing..."
+msgstr "Toujours en cours de redimensionnement…"
+
+#: instant-images.php:264
+msgid "Creating image sizes..."
+msgstr "Création des tailles d’image…"
+
+#: instant-images.php:261
+msgid "Like"
+msgstr "J’aime"
+
+#: instant-images.php:253
+msgid "There was no response while attempting to the download image to your server. Check your server permission and max file upload size or try again"
+msgstr "Il n’y a eu aucune réponse lors de la tentative de téléversement de l’image sur votre serveur. Vérifiez les droits de votre serveur et la taille maximale de téléversement de fichier ou réessayez."
+
+#: api/download.php:165
+msgid "There was an error getting image details from the request, please try again."
+msgstr "Une erreur est survenue lors de l’obtention des détails de l’image à partir de la requête, veuillez réessayer."
+
+#: api/download.php:100
+msgid "Image type could not be determined"
+msgstr "Le type d’image n’a pas pu être déterminé"
+
+#: api/download.php:94
+msgid "Image download failed, please try again. Errors:"
+msgstr "Le téléversement de l’image a échoué, veuillez réessayer. Erreurs :"
+
+#: api/download.php:83
+msgid "Image does not exist or there was an error accessing the remote file."
+msgstr "L’image n’existe pas ou une erreur est survenue lors de l’accès au fichier distant."
+
+#: instant-images.php:262
+msgid "Likes"
+msgstr "Likes"
+
+#: instant-images.php:295
+msgid "Squarish"
+msgstr "Carrée"
+
+#: instant-images.php:294
+msgid "Portrait"
+msgstr "Portrait"
+
+#: instant-images.php:293
+msgid "Landscape"
+msgstr "Paysage"
+
+#: instant-images.php:275
+msgid "Search for Toronto + Coffee etc..."
+msgstr "Rechercher Bordeaux + Café etc…"
+
+#: instant-images.php:291
+msgid "Upload"
+msgstr "Téléverser"
+
+#: instant-images.php:283
+msgid "Title"
+msgstr "Titre"
+
+#: instant-images.php:281
+msgid "Insert Into Post"
+msgstr "Insérer dans la publication"
+
+#: instant-images.php:280
+msgid "Set as Featured Image"
+msgstr "Définir comme image mise en avant"
+
+#: instant-images.php:290
+msgid "Save"
+msgstr "Enregistrer"
+
+#: instant-images.php:289
+msgid "Cancel"
+msgstr "Annuler"
+
+#: instant-images.php:287
+msgid "Edit Image Details"
+msgstr "Modifier les détails de l’image"
+
+#: instant-images.php:285
+msgid "Caption"
+msgstr "Légende"
+
+#: instant-images.php:284
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+#: instant-images.php:282
+msgid "Filename"
+msgstr "Nom du fichier"
+
+#: admin/includes/page-settings.php:12
+msgid "What's New"
+msgstr "Quoi de neuf"
+
+#: admin/views/app.php:27
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/includes/page-settings.php:93
+msgid "Our Plugins"
+msgstr "Nos extensions"
+
+#: instant-images.php:277
+msgid "images found for"
+msgstr "images trouvées pour"
+
+#: instant-images.php:268
+msgid "New"
+msgstr "Nouveau"
+
+#: api/download.php:148
+msgid "Image successfully uploaded to the media library!"
+msgstr "Image bien téléversée dans la médiathèque !"
+
+#: admin/includes/cta/permissions.php:22
+msgid "Instant Images is unable to download and process images on your server."
+msgstr "Instant Images ne peut pas téléverser et traiter les images sur votre serveur."
+
+#: instant-images.php:270
+msgid "Popular"
+msgstr "Populaires"
+
+#: instant-images.php:263
+msgid "Downloading image..."
+msgstr "Téléversement de l’image…"
+
+#: instant-images.php:258
+msgid "Click Image to Upload"
+msgstr "Cliquer sur l’image pour la téléverser"
+
+#. Author URI of the plugin
+msgid "https://connekthq.com"
+msgstr "https://connekthq.com"
+
+#. Author of the plugin
+msgid "Darren Cooney"
+msgstr "Darren Cooney"
+
+#. Plugin URI of the plugin
+msgid "https://connekthq.com/plugins/instant-images/"
+msgstr "https://connekthq.com/plugins/instant-images/"
+
+#. Plugin Name of the plugin
+#: admin/admin.php:94 admin/admin.php:111 instant-images.php:227
+msgid "Instant Images"
+msgstr "Instant Images"
+
+#: admin/includes/page-settings.php:69
+msgid "Save Settings"
+msgstr "Enregistrer les réglages"
+
+#: instant-images.php:259
+msgid "Click to Upload"
+msgstr "Cliquez pour téléverser"
+
+#: admin/includes/settings.php:158
+msgid "Max Image Upload Height:"
+msgstr "Hauteur maximale des images à téléverser :"
+
+#: admin/includes/settings.php:141
+msgid "Max Image Upload Width:"
+msgstr "Largeur maximale des images à téléverser :"
+
+#: admin/includes/settings.php:47
+msgid "Upload Image Height"
+msgstr "Hauteur de l’image à téléverser"
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Width"
+msgstr "Largeur de l’image à téléverser"
+
+#: admin/includes/cta/permissions.php:21
+msgid "Permissions Error"
+msgstr "Erreur de droits"
+
+#: instant-images.php:274
+msgid "Load More Images"
+msgstr "Charger plus d’images"
+
+#: instant-images.php:269
+msgid "Oldest"
+msgstr "Plus anciennes"
+
+#: instant-images.php:266
+msgid "Sorry, nothing matched your query"
+msgstr "Désolé, rien ne correspond à votre requête"
+
+#: instant-images.php:260
+msgid "View Full Size"
+msgstr "Voir en taille réelle"
+
+#: instant-images.php:257
+msgid "View All Photos by"
+msgstr "Voir toutes les photos par"
+
+#: instant-images.php:256
+msgid "Photo by"
+msgstr "Photo par"

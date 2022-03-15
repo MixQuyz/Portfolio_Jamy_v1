@@ -1,0 +1,390 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Instant Images\n"
+"POT-Creation-Date: 2022-01-02 20:39-0500\n"
+"PO-Revision-Date: 2017-09-21 10:40-0500\n"
+"Last-Translator: Darren Cooney <darren@connekthq.com>\n"
+"Language-Team: \n"
+"Language: en_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: dist\n"
+"X-Poedit-SearchPathExcluded-1: src\n"
+"X-Poedit-SearchPathExcluded-2: webpack\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
+
+#: admin/admin.php:94 instant-images.php:220
+msgid "Instant Images"
+msgstr ""
+
+#: admin/includes/page-settings.php:75
+msgid "Save Settings"
+msgstr ""
+
+#: admin/includes/settings.php:30
+msgid "Global Settings"
+msgstr ""
+
+#: admin/includes/settings.php:38
+msgid "Upload Image Width"
+msgstr ""
+
+#: admin/includes/settings.php:47
+msgid "Upload Image Height"
+msgstr ""
+
+#: admin/includes/settings.php:56
+msgid "Default Image Provider"
+msgstr ""
+
+#: admin/includes/settings.php:68 admin/includes/settings.php:231
+msgid "API Key"
+msgstr ""
+
+#: admin/includes/settings.php:84
+msgid "Media Tab"
+msgstr ""
+
+#: admin/includes/settings.php:178
+msgid "Hide Instant Images tab in Media Modal windows."
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:52
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:365
+msgid "Install Now"
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:87
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:367
+msgid "Activated"
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:91
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:366
+msgid "Activate"
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:129
+msgid "By"
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:142
+msgid "More Details"
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:164
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:171
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:242
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:235
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: admin/vendor/connekt-plugin-installer/class-connekt-plugin-installer.php:364
+msgid "Are you sure you want to install this plugin?"
+msgstr ""
+
+#: admin/views/app.php:20
+#, php-format
+msgid "One click photo uploads from %1$s, %2$s and %3$s."
+msgstr ""
+
+#: api/download.php:44
+msgid "You do not have sufficient access to upload images with Instant Images."
+msgstr ""
+
+#: api/download.php:83
+msgid "Image does not exist or there was an error accessing the remote file."
+msgstr ""
+
+#: api/download.php:94
+msgid "Image download failed, please try again. Errors:"
+msgstr ""
+
+#: api/download.php:100
+msgid "Image type could not be determined"
+msgstr ""
+
+#: api/download.php:148
+msgid "Image successfully uploaded to the media library!"
+msgstr ""
+
+#: api/download.php:165
+msgid ""
+"There was an error getting image details from the request, please try again."
+msgstr ""
+
+#: instant-images.php:237
+msgid ""
+"Access to images from Pixabay requires a valid API key. API keys are "
+"available for free, just sign up for an account at Pixabay, enter your API "
+"key below and you're good to go!"
+msgstr ""
+
+#: instant-images.php:242
+msgid ""
+"Access to images from Pexels requires a valid API key. API keys are "
+"available for free, just sign up for an account at Pexels, enter your API "
+"key below and you're good to go!"
+msgstr ""
+
+#: instant-images.php:243
+msgid ""
+"There was no response while attempting to the download image to your server. "
+"Check your server permission and max file upload size or try again"
+msgstr ""
+
+#: instant-images.php:244
+msgid "There was an error accessing the WP REST API."
+msgstr ""
+
+#: instant-images.php:245
+msgid ""
+"Instant Images requires access to the WP REST API via <u>POST</u> request to "
+"fetch and upload images to your media library."
+msgstr ""
+
+#: instant-images.php:246
+msgid "Photo by"
+msgstr ""
+
+#: instant-images.php:247
+msgid "View All Photos by"
+msgstr ""
+
+#: instant-images.php:248
+msgid "Click Image to Upload"
+msgstr ""
+
+#: instant-images.php:249
+msgid "Click to Upload"
+msgstr ""
+
+#: instant-images.php:250
+msgid "View Full Size"
+msgstr ""
+
+#: instant-images.php:251
+msgid "Like"
+msgstr ""
+
+#: instant-images.php:252
+msgid "Likes"
+msgstr ""
+
+#: instant-images.php:253
+msgid "Downloading image..."
+msgstr ""
+
+#: instant-images.php:254
+msgid "Creating image sizes..."
+msgstr ""
+
+#: instant-images.php:255
+msgid "Still resizing..."
+msgstr ""
+
+#: instant-images.php:256
+msgid "Sorry, nothing matched your query"
+msgstr ""
+
+#: instant-images.php:257
+msgid "Try adjusting your search criteria"
+msgstr ""
+
+#: instant-images.php:258
+msgid "New"
+msgstr ""
+
+#: instant-images.php:259
+msgid "Oldest"
+msgstr ""
+
+#: instant-images.php:260
+msgid "Popular"
+msgstr ""
+
+#: instant-images.php:261
+msgid "Filters"
+msgstr ""
+
+#: instant-images.php:262
+msgid "Views"
+msgstr ""
+
+#: instant-images.php:263
+msgid "Downloads"
+msgstr ""
+
+#: instant-images.php:264
+msgid "Load More Images"
+msgstr ""
+
+#: instant-images.php:265
+msgid "Search for Toronto + Coffee etc..."
+msgstr ""
+
+#: instant-images.php:266
+msgid "Search"
+msgstr ""
+
+#: instant-images.php:267
+msgid "images found for"
+msgstr ""
+
+#: instant-images.php:268
+msgid "Clear Search"
+msgstr ""
+
+#: instant-images.php:269
+msgid "Open image on"
+msgstr ""
+
+#: instant-images.php:270
+msgid "Set as Featured Image"
+msgstr ""
+
+#: instant-images.php:271
+msgid "Insert Into Post"
+msgstr ""
+
+#: instant-images.php:272
+msgid "Filename"
+msgstr ""
+
+#: instant-images.php:273
+msgid "Title"
+msgstr ""
+
+#: instant-images.php:274
+msgid "Alt Text"
+msgstr ""
+
+#: instant-images.php:275
+msgid "Caption"
+msgstr ""
+
+#: instant-images.php:276
+msgid "Edit Attachment Details"
+msgstr ""
+
+#: instant-images.php:277
+msgid "Edit Image Details"
+msgstr ""
+
+#: instant-images.php:278
+msgid "Update image details prior to uploading."
+msgstr ""
+
+#: instant-images.php:279
+msgid "Cancel"
+msgstr ""
+
+#: instant-images.php:280
+msgid "Save"
+msgstr ""
+
+#: instant-images.php:281
+msgid "Upload"
+msgstr ""
+
+#: instant-images.php:282
+msgid "Orientation"
+msgstr ""
+
+#: instant-images.php:283
+msgid "Landscape"
+msgstr ""
+
+#: instant-images.php:284
+msgid "Portrait"
+msgstr ""
+
+#: instant-images.php:285
+msgid "Squarish"
+msgstr ""
+
+#: instant-images.php:286
+msgid "Horizontal"
+msgstr ""
+
+#: instant-images.php:287
+msgid "Vertical"
+msgstr ""
+
+#: instant-images.php:288
+msgid "Add Photo Attribution"
+msgstr ""
+
+#: instant-images.php:289
+msgid "Close"
+msgstr ""
+
+#: instant-images.php:290
+msgid "Verify"
+msgstr ""
+
+#: instant-images.php:291
+msgid "Enter API Key"
+msgstr ""
+
+#: instant-images.php:292
+msgid "The API Key is Invalid"
+msgstr ""
+
+#: instant-images.php:293
+msgid "API key has been successfully validated!"
+msgstr ""
+
+#: instant-images.php:294
+msgid "API key entered is not valid - try again."
+msgstr ""
+
+#: instant-images.php:295
+msgid "Your daily or hourly API rate limit has been exceeded. Try again later."
+msgstr ""
+
+#: instant-images.php:296
+msgid "Get API Key Now"
+msgstr ""
+
+#: instant-images.php:298
+msgid "-- Select --"
+msgstr ""
+
+#: instant-images.php:299
+msgid "Order:"
+msgstr ""
+
+#: instant-images.php:300
+msgid "Type:"
+msgstr ""
+
+#: instant-images.php:301
+msgid "Category:"
+msgstr ""
+
+#: instant-images.php:302
+msgid "Colors:"
+msgstr ""
+
+#: instant-images.php:303
+msgid "Orientation:"
+msgstr ""
+
+#: instant-images.php:304
+msgid "Size:"
+msgstr ""

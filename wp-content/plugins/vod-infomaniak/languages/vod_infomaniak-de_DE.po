@@ -1,0 +1,796 @@
+# Fichier de Traduction du plugin wordpress Vod-infomaniak
+# Copyright (C) 2011 Infomaniak website
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <kevin.destrem@infomaniak.ch>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vod\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-17 11:15+0100\n"
+"PO-Revision-Date: 2015-04-16 09:56+0100\n"
+"Last-Translator: Uli Böhm <uli@traduc.de>\n"
+"Language-Team: www.traduc.de\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/daviderubini/Projets/LOCAL/wordpress/wp-"
+"content/plugins/vod-infomaniak\n"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:147
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:21
+msgid "Videos"
+msgstr "Videos"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:152
+msgid "Gestionnaire"
+msgstr "Verwaltung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:155
+msgid "Importation"
+msgstr "Import"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:158
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:499
+msgid "Player video"
+msgstr "Videoplayer"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:161
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:89
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:515
+msgid "Playlist"
+msgstr "Playlist"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:164
+msgid "Configuration"
+msgstr "Einstellungen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:177
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:755
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:767
+msgid "Il n'est pas possible d'uploader dans ce dossier."
+msgstr "Uploads in diesen Ordner sind nicht möglich."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:288
+msgid "Video en cours de conversion"
+msgstr "Videoumwandlung in Bearbeitung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:632
+msgid "Erreur : Impossible de se connecter"
+msgstr "Fehler: Verbindung nicht möglich"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:673
+msgid "Probleme de configuration"
+msgstr "Konfigurationsproblem"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:673
+msgid ""
+"Veuillez-vous rendre dans <a href='admin.php?page=configuration'>Videos -> "
+"Configuration</a> afin de configurer votre compte."
+msgstr ""
+"Bitte begeben Sie sich ins Menü <a href='admin.php?"
+"page=configuration'>Videos -> Einstellungen</a>, um Ihr Konto einzurichten."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.class.php:723
+msgid ""
+"Article correctement cree. Vous allez etre rediriger sur la page d'edition"
+msgstr ""
+"Artikel erfolgreich angelegt. Sie werden auf die Bearbeitungsseite "
+"weitergeleitet."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:22
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1121
+msgid "Playlists"
+msgstr "Playlists"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:23
+msgid "Avec l'url"
+msgstr "Mit der URL"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:25
+msgid "Envoi d'une video"
+msgstr "Video versenden"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:31
+msgid "Veuillez saisir l'URL d'une video"
+msgstr "Bitte geben Sie die URL eines Videos ein"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:33
+msgid "Exemple"
+msgstr "Beispiel"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:35
+msgid "Url complete"
+msgstr "Vollständige URL"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:36
+msgid "Url partiel"
+msgstr "Teilweise URL"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:37
+msgid "Identifiant de playlist"
+msgstr "Playlist-ID"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:45
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:83
+msgid "Rechercher ..."
+msgstr "Suchen..."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:51
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:989
+msgid "Video"
+msgstr "Video"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:52
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:139
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:444
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:446
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:602
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:910
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1128
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1219
+msgid "Nom"
+msgstr "Name"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:53
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:991
+msgid "Date d'upload"
+msgstr "Uploaddatum"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:59
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:998
+msgid "Aucune video disponible"
+msgstr "Kein Video verfügbar"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:90
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:555
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1129
+msgid "Description"
+msgstr "Beschreibung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:91
+msgid "Nbr Videos"
+msgstr "Anzahl Videos"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:92
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1131
+msgid "Duree"
+msgstr "Dauer"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:98
+msgid "Aucune playlist de disponible"
+msgstr "Keine Playlist verfügbar"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:131
+msgid "1. Selection du dossier"
+msgstr "1. Ordnerauswahl"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:133
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:736
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:790
+msgid "Dossier d'envoi"
+msgstr "Sendeordner"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:136
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:440
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:599
+msgid "Aucun dossier disponible"
+msgstr "Kein Ordner verfügbar"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:139
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:444
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:446
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:602
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:990
+msgid "Dossier"
+msgstr "Ordner"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:148
+msgid "2. Envoi d'un fichier"
+msgstr "2. Dateiversand"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:224
+msgid "Options d'integration"
+msgstr "Integrationsoptionen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:227
+msgid "Dimensions"
+msgstr "Auflösung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:233
+msgid "Player choisi"
+msgstr "Ausgewählter Player"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:237
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1194
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1211
+msgid "Aucun player disponible"
+msgstr "Kein Player verfügbar"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:252
+msgid "Etirer la video (stretch)"
+msgstr "Video strecken (stretch)"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:257
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1227
+msgid "Demarrage automatique"
+msgstr "Automatischer Start"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:262
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1230
+msgid "Lecture en boucle"
+msgstr "Wiedergabeschleife"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:343
+msgid "Administration du plugin VOD"
+msgstr "Verwaltung des VOD-Plugins"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:348
+msgid ""
+"Pour fonctionner, le plugin a besoin de s'interfacer avec votre compte VOD "
+"infomaniak.<br/>\n"
+"\t\t\t\tPour des raisons de securites, il est fortement conseille de creer "
+"un nouvel utilisateur dedie dans votre admin infomaniak avec uniquement des "
+"droits restreints sur l'API.<br/>\n"
+"\t\t\t\tPour plus d'information, veuillez vous rendre dans la partie "
+"\"Configuration -> Api & Callback\" de votre administration VOD."
+msgstr ""
+"Das Plugin muss sich mit Ihrem VOD-Konto bei Infomaniak verbinden, damit es "
+"funktioniert.<br/>\n"
+"\t\t\t\tWir raten aus Sicherheitsgründen dringend dazu, in Ihrer Infomaniak-"
+"Verwaltungskonsole einen neuen Benutzer anzulegen, der nur begrenzte Rechte "
+"für die API besitzt.<br/>\n"
+"\t\t\t\tWeitere Informationen finden Sie im Menü \"Erweiterungen -> Api & "
+"Callback\" Ihrer VOD-Verwaltung."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:355
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:819
+msgid "Login"
+msgstr "Benutzername"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:361
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:821
+msgid "Password"
+msgstr "Kennwort"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:367
+msgid "Identifiant de l'espace VOD"
+msgstr "ID des VOD-Bereichs"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:373
+msgid "Connection"
+msgstr "Verbindung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:376
+msgid "Connecter"
+msgstr "Verbinden"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:379
+msgid "Impossible de se connecter"
+msgstr "Verbindung nicht möglich"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:386
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:452
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:532
+msgid "Valider"
+msgstr "Bestätigen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:392
+msgid "Synchronisation des donnees"
+msgstr "Datensynchronisation"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:393
+msgid ""
+"Pour fonctionner correctement, cette extension a besoin de se synchroniser "
+"regulierement avec votre compte VOD.<br/>Cela vous permet de garder une "
+"liste des players, dossiers et playlist a jour sur votre blog.<br/>Cette "
+"operation s'effectue automatiquement assez regulierement mais il est "
+"egalement possible de forcer une verification ci-dessous."
+msgstr ""
+"Um richtig zu funktionieren, muss diese Erweiterung sich regelmässig mit "
+"Ihrem VOD-Konto synchronisieren.<br/>Auf diese Weise bleiben Ihre "
+"Playerliste, Ordner und Playlists in Ihrem Blog auf dem neuesten Stand.<br/"
+">Dieser Vorgang läuft regelmässig automatisch ab, Sie können aber auch unten "
+"eine Prüfung durchführen."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:395
+msgid "Videos recuperes"
+msgstr "Heruntergeladene Videos"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:399
+msgid "Dossiers recuperes"
+msgstr "Wiederhergestellte Ordner"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:403
+msgid "Players recuperes"
+msgstr "Heruntergeladene Player"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:407
+msgid "Playlist recuperes"
+msgstr "Heruntergeladene Playlists"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:417
+msgid "Synchronisation rapide"
+msgstr "Schnellsynchronisation"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:423
+msgid "Synchroniser Videos"
+msgstr "Videos synchronisieren "
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:427
+msgid "Filtrer l'acces a l'espace VOD"
+msgstr "Zugriff auf den VOD-Bereich filtern"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:428
+msgid ""
+"Par defaut, ce plugin permet d'acceder a l'integralite des videos/dossiers "
+"presents sur votre espace VOD.<br/>\n"
+"\t\t\t\tIl peut etre utile dans certains cas de limiter l'acces aux "
+"utilisateurs de ce site qu'a une partie des dossiers.<br/>\n"
+"\t\t\t\tL'option ci-dessous permet de restreindre l'acces de ce site a un "
+"dossier ainsi que tous ses dossiers fils."
+msgstr ""
+"Dieses Plugin gestattet standardmässig den Zugriff auf sämtliche Videos/"
+"Ordner Ihres VOD-Bereichs.<br/>\n"
+"\t\t\t\tIn bestimmten Fällen kann es nützlich sein, den Zugriff durch "
+"Benutzer dieser Website auf bestimmte Ordner zu beschränken.<br/>\n"
+"\t\t\t\tMit der Option unten lässt sich der Zugriff dieser Website auf einen "
+"Ordner und sämtliche untergeordneten Ordner einschränken."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:436
+msgid "Dossier Racine"
+msgstr "Stammverzeichnis"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:456
+msgid "Gestion des droits par groupe d'utilisateur"
+msgstr "Verwaltung der Zugriffsrechte nach Benutzergruppe"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:458
+msgid ""
+"Par defaut, toutes les options du plugin sont disponibles pour les "
+"utilisateurs a partir du rang de contributeur.<br/>\n"
+"\t\t\t\tCi-dessous, il est cependant possible de parametrer les options que "
+"vous souhaitez proposer a vos utilisateurs."
+msgstr ""
+"Alle Optionen des Plugins stehen standardmässig allen Benutzern ab dem Rang "
+"eines Beitragenden zur Verfügung.<br/>\n"
+"\t\t\t\tSie jedoch unten die Optionen einstellen, die Sie Ihren Benutzern "
+"anbieten möchten."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:467
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:917
+msgid "Integration"
+msgstr "Integration"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:471
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:487
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:503
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:519
+msgid "Contributeur"
+msgstr "Beitragender"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:474
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:490
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:506
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:522
+msgid "Auteur"
+msgstr "Autor"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:477
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:493
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:509
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:525
+msgid "Editeur"
+msgstr "Editor"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:480
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:496
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:512
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:528
+msgid "Administrateur"
+msgstr "Administrator"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:483
+msgid "Importation de video"
+msgstr "Videoimport"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:537
+msgid "Configuration du callback"
+msgstr "Callback-Konfiguration "
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:538
+#, php-format
+msgid ""
+"Cette option vous permet de mettre a jour automatiquement votre blog a "
+"chaque ajout de video a votre espace VOD.<br/>Veuillez aller dans \"<a "
+"href='https://statslive.infomaniak.com/vod/configuration.php/g%ds7i%d' "
+"target='_blank'>Configuration -> Api & Callback</a>\" et mettre l'adresse "
+"suivante dans le champ \"Adresse de Callback\""
+msgstr ""
+"Diese Option ermöglicht die automatische Aktualisierung Ihres Blogs, sobald "
+"ein Video in Ihrem VOD-Bereich hinzugefügt wird.<br/>Bitte begeben Sie sich "
+"in \"<a href='https://statslive.infomaniak.com/vod/configuration.php/g%ds7i"
+"%d' target='_blank'>Einstellungen -> Api & Callback</a>\" und geben Sie "
+"folgende Adresse im Feld \"Callback-Adresse \" ein"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:542
+msgid "Adresse de callback"
+msgstr "Callback-Adresse"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:553
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1124
+msgid "Precedents Envois"
+msgstr "Vorherige Sendungen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:555
+msgid "Fichier"
+msgstr "Datei"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:555
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1133
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1221
+msgid "Date"
+msgstr "Datum"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:555
+msgid "Statut"
+msgstr "Status"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:563
+msgid "OK"
+msgstr "OK"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:566
+msgid "Ok (des alertes sont apparues)"
+msgstr "Ok (Warnmeldungen wurden angezeigt)"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:569
+msgid "Telechargement en cours"
+msgstr "Download läuft"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:572
+msgid "En cours de conversion"
+msgstr "Umwandlung in Bearbeitung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:574
+msgid "Erreurs"
+msgstr "Fehler"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:590
+msgid "Envoi d'une nouvelle video"
+msgstr "Neues Video versenden"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:591
+msgid ""
+"Ce plug-in vous permet d'ajouter de nouvelles videos directement depuis ce "
+"blog. Pour cela, vous n'avez qu'a choisir un dossier puis suivre les "
+"instructions"
+msgstr ""
+"Mit diesem Plugin können Sie neue Videos unmittelbar aus diesem Blog "
+"hinzufügen. Dafür müssen Sie nur einen Ordner auswählen und den Anweisungen "
+"folgen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:594
+msgid "Choix du dossier d'envoi"
+msgstr "Auswahl des Sendeordners"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:610
+msgid "Choix du type d'envoi"
+msgstr "Auswahl des Versandtyps"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:612
+msgid "Envoyer depuis cet ordinateur"
+msgstr "Von diesem Computer senden"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:615
+msgid "Importer depuis un autre site"
+msgstr "Von einer anderen Website importieren"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:622
+msgid "Envoi termine"
+msgstr "Versand abgeschlossen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:624
+msgid ""
+"L'ajout de cette video a correctement ete pris en compte.<br/>Vous pouvez "
+"retrouver l'avancement de cette conversion video dans le tableau ci-dessous."
+msgstr ""
+"Dieses Video wurde erfolgreich hinzugefügt.<br/>Sie sehen der Fortschritt "
+"der Videoumwandlung in der Tabelle unten."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:673
+msgid "Mise a jour dans"
+msgstr "Aktualisierung in"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:734
+msgid "Utilitaire d'envoi de video"
+msgstr "Dienstprogramm für den Videoversand"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:742
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:797
+msgid "Limites"
+msgstr "Obergrenzen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:744
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:799
+msgid "Le poids des fichiers envoyes via ce module est limite a 1Go"
+msgstr "Die Dateigrösse ist beim Hochladen über dieses Modul auf 1 GB begrenzt"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:745
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:800
+msgid ""
+"Les formats videos supportes sont avi, flv, mov, mpeg, mp4, mkv, rm, wmv, "
+"m4v, vob, 3gp, webm, f4v, ts"
+msgstr ""
+"Folgende Videoformate werden unterstützt: avi, flv, mov, mpeg, mp4, mkv, rm, "
+"wmv, m4v, vob, 3gp, webm, f4v, ts"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:746
+msgid "L'envoi doit etre effectue en moins de 4 heures"
+msgstr "Der Versand darf nicht länger als 4 Stunden dauern"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:749
+msgid "Envoi"
+msgstr "Senden"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:782
+msgid "Utilitaire d'importation de video"
+msgstr "Dienstprogramm für den Videoimport"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:804
+msgid "Adresse"
+msgstr "Adresse"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:815
+msgid "Cette adresse necessite une authentification."
+msgstr "Diese Adresse erfordert eine Authentifizierung."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:826
+msgid "Importer"
+msgstr "Importieren"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:865
+msgid "Gestionnaire de videos"
+msgstr "Videoverwaltung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:873
+msgid "Supprimer une video"
+msgstr "Video löschen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:881
+msgid "Vous etes sur le point de supprimer la video"
+msgstr "Sie sind dabei, das Video zu löschen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:884
+msgid "Attention"
+msgstr "Vorsicht"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:885
+msgid ""
+"C'est une suppression definitive de la video, il n'y pas de corbeille ou de "
+"moyen de la recuperer une fois effacer."
+msgstr ""
+"Das Video wird endgültig gelöscht. Es gibt weder einen Papierkorb noch die "
+"Möglichkeit, ein gelöschtes Video wiederherzustellen."
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:887
+msgid "Etes-vous sur de vouloir continuer ?"
+msgstr "Möchten Sie wirklich fortsetzen?"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:892
+msgid "Previsualisation d'une video"
+msgstr "Video-Vorschau"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:898
+msgid "Informations"
+msgstr "Informationen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:913
+msgid "Restriction d'acces"
+msgstr "Zugangsbeschränkung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:923
+msgid "Visualiser la video"
+msgstr "Video anzeigen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:928
+msgid "Url de la video"
+msgstr "Video-URL"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:940
+msgid "Url de l'image"
+msgstr "Bild-URL"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:947
+msgid "Code d'integration"
+msgstr "Integrationscode"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:956
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:957
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1026
+msgid "Administrer cette video"
+msgstr "Dieses Video verwalten"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:964
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1030
+msgid "Voir les statistiques de cette video"
+msgstr "Statistiken dieses Videos anzeigen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:965
+msgid "Voir les statistiques"
+msgstr "Statistiken anzeigen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:978
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:979
+msgid "Creer un article"
+msgstr "Artikel anlegen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:992
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1134
+msgid "Action"
+msgstr "Aktion"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1022
+msgid "Information sur cette video"
+msgstr "Informationen zu diesem Video"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1034
+msgid "Supprimer cette video"
+msgstr "Dieses Video löschen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1052
+msgid "Supprimer definitivement la video"
+msgstr "Video endgültig löschen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1055
+msgid "Annuler"
+msgstr "Rückgängig"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1085
+msgid "Video Geolocalise"
+msgstr "Geolokalisiertes Video"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1089
+msgid "Securise avec un token"
+msgstr "Mit Token gesichert"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1122
+#, php-format
+msgid ""
+"Si vous desirez ajouter ou modifier les playlist ci-dessous, veuillez vous "
+"rendre dans <a href='https://statslive.infomaniak.com/vod/playlists.php/g"
+"%ds7i%d' target='_blank'>la console d'administration</a>"
+msgstr ""
+"Wenn Sie die Playlists erweitern oder bearbeiten möchten, begeben Sie sich "
+"in die <a href='https://statslive.infomaniak.com/vod/playlists.php/g%ds7i%d' "
+"target='_blank'>Verwaltungskonsole</a>"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1130
+msgid "Nombre videos"
+msgstr "Anzahl Videos"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1132
+msgid "Mode de lecture"
+msgstr "Wiedergabemodus"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1140
+msgid "Aucune playlist disponible"
+msgstr "Keine Playlist verfügbar"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1169
+msgid "Administrer cette playlist"
+msgstr "Diese Playlist verwalten"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1183
+msgid "Integration par defaut des videos"
+msgstr "Standard-Integration der Videos"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1189
+msgid "Selection du player par defaut"
+msgstr "Auswahl des Standardplayers"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1206
+msgid "Choisir ce player"
+msgstr "Diesen Player auswählen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1208
+msgid "Informations sur ce Player"
+msgstr "Informationen zu diesem Player"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1224
+msgid "Resolution"
+msgstr "Auflösung"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1232
+msgid "Switch de qualite"
+msgstr "Qualitäts-Switch"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1242
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1243
+msgid "Modifier ce Player"
+msgstr "Diesen Player bearbeiten"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1259
+msgid "Creation ou modification de players"
+msgstr "Player erstellen oder bearbeiten"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1260
+#, php-format
+msgid ""
+"Afin de modifier ou creer de nouveaux players flash, nous vous invitons a "
+"vous rendre dans votre administration vod : <a href='https://statslive."
+"infomaniak.com/vod/player.php/g%ds7i%d' target='_blank'>Acceder a la "
+"configuration des players</a>"
+msgstr ""
+"Bitte begeben Sie sich in Ihre VOD-Verwaltung, um Flash-Player zu bearbeiten "
+"oder anzulegen: <a href='https://statslive.infomaniak.com/vod/player.php/g"
+"%ds7i%d' target='_blank'>Player-Einrichtung anzeigen</a>"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1261
+msgid "Plus d'options"
+msgstr "Weitere Optionen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1263
+msgid ""
+"Il est possible de personnaliser votre player video afin qu'ils s'integre "
+"parfaitement a votre site. Voici quelques fonctionnalites avancees qu'il "
+"propose :"
+msgstr ""
+"Sie können Ihren Videoplayer persönlich gestalten, damit er perfekt in Ihre "
+"Website integriert ist. Er bietet u.a. folgende fortgeschrittenen Funktionen:"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod.template.php:1265
+msgid ""
+"<li>Fonction de seek permettant de se deplacer dans une video meme longue "
+"quasi instantanement.</li>\n"
+"\t\t\t\t<li>Bouton permettant de changer a la vole entre les differentes "
+"qualites d'une video.</li>\n"
+"\t\t\t\t<li>Bouton d'export sur certains reseau sociaux (facebook, twitter) "
+"afin que votre video soit plus visible.</li>\n"
+"\t\t\t\t<li>Player exportable afin de permettre aux visiteurs de recuperer "
+"le code d'integration.</li>\n"
+"\t\t\t\t<li>Facilite de personnalisation du player via de rapides "
+"modifications (couleurs de la barre, taille de la barre, logo) ou "
+"l'utilisation d'une barre entierement personnaliser.</li>\n"
+"\t\t\t\t<li>Compatibilite avec adswizz afin d'ajouter facilement des "
+"publicites avant ou apres les videos.</li>\n"
+"\t\t\t\t<li>Et encore d'autres options a decouvrir ...</li>"
+msgstr ""
+"<li>Seek-Funktion, um die Abspielposition im Video praktisch unmittelbar zu "
+"verschieben.</li>\n"
+"\t\t\t\t<li>Schaltfläche, um unmittelbar eine andere Videoqualität zu wählen."
+"</li>\n"
+"\t\t\t\t<li>Schaltfläche für den Export in soziale Netzwerke (Facebook, "
+"Twitter), um Ihr Video bekannter zu machen.</li>\n"
+"\t\t\t\t<li>Exportierbarer Player, damit Besucher den Integrationscode "
+"übernehmen können.</li>\n"
+"\t\t\t\t<li>Persönliche Gestaltung des Players über Schnelleinstellungen "
+"(Farbe der Leiste, Grösse der Leiste, Logo) oder Verwendung einer "
+"persönlichen Leiste.</li>\n"
+"\t\t\t\t<li>Adswizz-Kompatibilität, um vor oder nach den Videos bequem "
+"Werbung einzublenden.</li>\n"
+"\t\t\t\t<li>Und viele weitere Optionen ...</li>"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod_callback.php:26
+msgid "Probleme avec les parametres"
+msgstr "Problem mit den Einstellungen"
+
+#: /Users/daviderubini/Projets/LOCAL/wordpress/wp-content/plugins/vod-infomaniak/vod_callback.php:30
+msgid "Dossier inconnu"
+msgstr "Unbekannter Ordner"
+
+#~ msgid "Ajout"
+#~ msgstr "Hinzufügen"
+
+#~ msgid "Dernieres videos"
+#~ msgstr "Letzte Videos"
+
+#~ msgid "Outil de recherche"
+#~ msgstr "Such-Tool"
+
+#~ msgid "Utilisation du token du dossier (Id dossier)"
+#~ msgstr "Verwendung des Ordner-Tokens (Ordner-ID)"
